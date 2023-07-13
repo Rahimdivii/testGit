@@ -14,17 +14,15 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello world")
-             Text("Hello world")
-             Text("Hello world new 808eu9ew9q90")
+            Text("Hello world")
+            Text("manan")
         }
         .padding()
     }
     
-    
     func test(){
-        print("ti=ishis")
-    }
-    
+           print("ti=ishis")
+       }
 }
 
 struct ContentView_Previews: PreviewProvider {
