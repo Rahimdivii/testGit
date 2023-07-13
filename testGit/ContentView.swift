@@ -22,7 +22,7 @@ struct ContentView: View {
     
     
     func test(){
-        print("ti=ishis is bew test")
+        print("ti=ishis")
     }
     
 }
