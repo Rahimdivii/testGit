@@ -15,10 +15,16 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello world")
              Text("Hello world")
-             Text("Hello world new this is new manager rexourdes")
+             Text("Hello world new 808eu9ew9q90")
         }
         .padding()
     }
+    
+    
+    func test(){
+        print("ti=ishis is bew test")
+    }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {
