@@ -19,6 +19,10 @@ struct ContentView: View {
         }
         .padding()
     }
+    
+    func test(){
+           print("ti=ishis")
+       }
 }
 
 struct ContentView_Previews: PreviewProvider {
